@@ -1,0 +1,2 @@
+Classical cryptography makes transformation rules visible.
+Use this UTF-8 text file to demonstrate encryption and decryption.

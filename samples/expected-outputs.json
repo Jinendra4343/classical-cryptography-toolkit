@@ -1,0 +1,6 @@
+{
+  "caesar": {"input": "NETWORK SECURITY", "key": "5", "encrypted": "SJYBTWP XJHZWNYD"},
+  "playfair": {"input": "INSTRUMENTS", "key": "MONARCHY", "encrypted": "GATLMZCLRQXA"},
+  "hill": {"input": "HELP", "key": "3 3 2 5", "encrypted": "HIAT"},
+  "vigenere": {"input": "ATTACKATDAWN", "key": "LEMON", "encrypted": "LXFOPVEFRNHR"}
+}
